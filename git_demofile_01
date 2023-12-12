@@ -1,0 +1,9 @@
+
+
+git init
+git status
+git add 
+git rm --cached
+git restore
+git commit -m "adding"
+git log
