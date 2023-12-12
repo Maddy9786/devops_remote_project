@@ -8,3 +8,7 @@ git restore
 git commit -m "adding"
 git log
 git init
+git log --oneline
+git log --oneline --pretty
+git config --global user.name "Mohammad Piyarji"
+git config --global user.email "piyarjimohammad@gmail.com"
