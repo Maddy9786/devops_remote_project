@@ -12,3 +12,6 @@ git log --oneline
 git log --oneline --pretty
 git config --global user.name "Mohammad Piyarji"
 git config --global user.email "piyarjimohammad@gmail.com"
+git checkout -b dev1
+git checkout master
+
