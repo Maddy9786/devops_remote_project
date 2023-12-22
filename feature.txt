@@ -1,4 +1,1 @@
 This is the feature 1 
-
-
-Adding new functionality
